@@ -1,0 +1,16 @@
+{
+  "name": "node-simplehttpserver",
+  "version": "0.1.0",
+  "description": "A simple static file http server write by Node.js",
+  "main": "./lib/simplehttpserver.js",
+  "bin": {
+    "node-simplehttpserver": "./lib/simplehttpserver.js"
+  },
+  "keywords": [
+    "nodejs",
+    "simple",
+    "httpserver"
+  ],
+  "author": "Tood Fon",
+  "license": "MIT"
+}
