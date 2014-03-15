@@ -1,8 +1,9 @@
 {
   "name": "node-simplehttpserver",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "A simple static file http server write by Node.js",
   "main": "./lib/simplehttpserver.js",
+  "repository": "https://github.com/tilfon/node-simplehttpserver",
   "bin": {
     "node-simplehttpserver": "./lib/simplehttpserver.js"
   },
