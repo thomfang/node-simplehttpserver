@@ -1,6 +1,6 @@
 {
   "name": "node-simplehttpserver",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "A simple static file http server write by Node.js",
   "main": "./lib/simplehttpserver.js",
   "repository": "https://github.com/tilfon/node-simplehttpserver",
