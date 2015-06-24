@@ -1,6 +1,6 @@
 {
   "name": "node-simplehttpserver",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "description": "A simple static file http server write by Node.js",
   "main": "./lib/simplehttpserver.js",
   "repository": "https://github.com/tilfon/node-simplehttpserver",
@@ -13,5 +13,8 @@
     "httpserver"
   ],
   "author": "Todd Fon",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mime": "^1.3.4"
+  }
 }
